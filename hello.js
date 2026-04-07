@@ -1,0 +1,1 @@
+console.log("Esse é um exemplo de arquivo2")
